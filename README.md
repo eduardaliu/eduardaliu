@@ -12,4 +12,4 @@ I enjoy **designing** and **coding** interactive digital experiences that solves
 
 <sup>📚 in progress</sup>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
